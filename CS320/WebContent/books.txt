@@ -1,0 +1,39 @@
+An Introduction to Programming Using Visual Basic 6.0 4th Edition
+David I. Schneider
+Prentice Hall
+1995
+0-13-936428-5
+Paperback
+$49.99
+
+Core Servlets & Java Server Pages 2nd Edition
+Marty Hall, Larry Brown
+Prentice Hall
+2004
+0-13-009229-0
+Paperback
+$59.99
+
+Introduction to Java Programming
+Y. Daniel Liang
+Pearson, Prentice Hall
+2007
+0-13-222158-6
+Paperback
+$79.99
+
+Java Programming From Problem Analysis to Program Design 2nd Edition
+D.S. Malik
+Thomson Course Technology
+2006
+0-619-21608-5
+Paperback
+$89.99
+
+Data Structures & Problem Solving Using Java 3rd Edition
+Mark Allen Weiss
+Addison Wesley
+2006
+0-321-32213-4
+Hardcover
+$129.99
